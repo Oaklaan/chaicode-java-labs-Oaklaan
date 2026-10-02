@@ -1,0 +1,3 @@
+for example you solved a Challenge of EmployeeBadge.java 
+
+$ run a script of| .\mvnw.cmd test -Dtest=EmployeeBadgeTest | 
